@@ -27,5 +27,5 @@ The memory dump file is saved with the format: COMPUTERNAME_YYYY-MM-DD_HH-MM-SS_
 
 
 ### Note
-<Authorization and Permissions:> Ensure you have the necessary authorization and permissions to run scripts on the target computer.
+Authorization and Permissions: Ensure you have the necessary authorization and permissions to run scripts on the target computer.
 Ethical Use: Use this script responsibly and adhere to ethical guidelines and legal regulations.
