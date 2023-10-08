@@ -2,7 +2,7 @@
 
  Hey GitHub community! 👋 When it comes to Digital Forensics and Incident Response (DFIR), having the right tools at your fingertips is crucial. Let's dive into some specialized Linux distributions tailored for specific DFIR tasks, each with its unique advantages and fields of expertise.
 
-**1. CSI LINUX: 🕵️‍♂️**
+**1. CSI LINUX**: 🕵️‍♂️**
 CSI Linux, inspired by the famous TV series CSI: Cyber, is designed with beginners in mind. Its user-friendly interface and pre-configured tools make it a fantastic choice for newcomers. It shines brightly in digital forensics, network analysis, and malware analysis, providing essential resources for investigators.
 
 **2. Flare VM: 🔥**
