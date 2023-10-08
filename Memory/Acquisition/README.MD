@@ -1,4 +1,6 @@
 # Memory Capture Script
+This script automates the process of capturing memory dumps on Windows systems using DumpIt.exe. Built with versatility in mind, this script is designed to be run from any environment without dependencies, making it a reliable choice for memory capture on various systems.
+
 This script automates the process of capturing memory dumps on Windows systems using DumpIt.exe. DumpIt is a widely used and reliable memory acquisition tool, providing several advantages:
 
 Forensic Soundness: DumpIt ensures that the memory capture process is forensically sound, preserving the integrity of the captured data for analysis.
