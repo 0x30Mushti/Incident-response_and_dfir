@@ -24,6 +24,8 @@ Run the Script: Double-click the .bat file to execute the script. The script wil
 The script uses Batch scripting language and works within the Windows Command Prompt environment.
 It dynamically detects the USB drive containing DumpIt.exe and captures memory dumps.
 The memory dump file is saved with the format: COMPUTERNAME_YYYY-MM-DD_HH-MM-SS_memory_dump.raw.
-Note
+
+
+### Note
 Authorization and Permissions: Ensure you have the necessary authorization and permissions to run scripts on the target computer.
 Ethical Use: Use this script responsibly and adhere to ethical guidelines and legal regulations.
