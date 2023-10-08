@@ -1,4 +1,4 @@
-**🔍 Exploring Specialized Linux Distros for DFIR/IR Investigations 🔍**
+ ## **🔍 Exploring Specialized Linux/Windows Distros for DFIR/IR Investigations 🔍**
 
  Hey GitHub community! 👋 When it comes to Digital Forensics and Incident Response (DFIR), having the right tools at your fingertips is crucial. Let's dive into some specialized Linux distributions tailored for specific DFIR tasks, each with its unique advantages and fields of expertise.
 
