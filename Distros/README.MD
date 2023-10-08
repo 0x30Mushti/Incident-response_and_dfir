@@ -20,12 +20,3 @@ Tsurugi Linux is an advanced distro catering to digital forensics, penetration t
 Exploring these specialized Linux distributions can significantly enhance your DFIR capabilities. Whether you're delving into network analysis, malware research, or multifaceted incident response, there's a distro tailored just for you. Feel free to share your experiences with these distros or let me know if you have any questions. Happy investigating, fellow cyber detectives! 🕵️‍♀️🔒🔍
 
 ---
-
-Explore More:
-
-CSI LINUX
-Flare VM
-Remnux
-SANS SIFT
-Tsurugi Linux
----
