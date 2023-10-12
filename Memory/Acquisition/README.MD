@@ -3,7 +3,7 @@ This script automates the process of capturing memory dumps on Windows systems u
 
 This script automates the process of capturing memory dumps on Windows systems using DumpIt.exe. DumpIt is a widely used and reliable memory acquisition tool, providing several advantages:
 
-non-noisy: Dumpit is a CLI based tool and won't make to much noice in the memory while dumping it. This helps a lot while doing IR cases.
+Non-noisy: Dumpit is a CLI based tool and won't make to much noice in the memory while dumping it. This helps a lot while doing IR cases.
 
 Forensic Soundness: DumpIt ensures that the memory capture process is forensically sound, preserving the integrity of the captured data for analysis.
 
