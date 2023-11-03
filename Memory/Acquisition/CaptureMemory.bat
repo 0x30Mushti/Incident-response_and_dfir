@@ -16,7 +16,9 @@ for %%D in (C D E F G H I J K L M N O P Q R S T U V W X Y Z) do (
         echo Please press any key to capture the memory...
         pause >nul
 
+        pushd "%%D:\"  REM Change the current directory to USB drive's root
         %%D:\DumpIt.exe -c -f %%D:\!computer_name!_!datestamp!_!timestamp!_memory_dump.raw
+        popd  REM Restore the previous current directory
 
         echo Memory capture completed. Press any key to exit...
         pause >nul
